@@ -16,10 +16,12 @@ The project includes an interactive website developed using the Dewi BootstrapMa
 - index.html – Home page
 - assets/ – CSS, JavaScript, images
 - data/Housing_Data.csv – Dataset
-- tableau/HousingDashboard.twb – Tableau workbook
 - tableau/HousingDashboard.twbx – Packaged Tableau workbook
-- tableau/Dashboard_Screenshot.png – Dashboard screenshot
-- tableau/Story_Screenshot.png – Story screenshot
+- tableau/Story.twbx – Packaged Tableau Story
+- tableau/sheet1.twbx - Packaged Tableau Sheet1
+- tableau/sheet2.twbx - Packaged Tableau Sheet2
+- tableau/sheet3.twbx - Packaged Tableau Sheet3
+- tableau/sheet4.twbx - Packaged Tableau Sheet4
 
 ## Tableau Dashboard
 https://public.tableau.com/app/profile/sai.mani.venkata.pravalhika.vittamsetti/viz/dashboard_17845493530010/Dashboard1
